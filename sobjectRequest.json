@@ -1,0 +1,10 @@
+{
+    "actions": [
+        {
+            "id": "2;a",
+            "descriptor": "serviceComponent://ui.force.components.controllers.hostConfig.HostConfigController/ACTION$getConfigData",
+            "callingDescriptor": "UNKNOWN",
+            "params": {}
+        }
+    ]
+}

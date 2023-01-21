@@ -1,7 +1,6 @@
 {
     "actions": [
         {
-            "id": "2;a",
             "descriptor": "serviceComponent:\/\/ui.comm.runtime.components.aura.components.siteforce.controller.PubliclyCacheableComponentLoaderController/ACTION$getPageComponent",
             "callingDescriptor": "UNKNOWN",
             "params": {

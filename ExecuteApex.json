@@ -1,0 +1,10 @@
+{
+    "actions": [
+        {
+            "id": "2;a",
+            "descriptor": "apex://<namespace>.<controller>/ACTION$<action>",
+            "callingDescriptor": "UNKNOWN",
+            "params": {}
+        }
+    ]
+}

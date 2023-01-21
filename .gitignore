@@ -1,3 +1,2 @@
-output
-sample
-http*
+*.env
+**/.vscode

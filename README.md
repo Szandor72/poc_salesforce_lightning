@@ -54,4 +54,4 @@ $ python3 exploit.py -u https://domain.force.com/path/ -d -s
 
 # Reference
 - Salesforce Lightning - An in-depth look at exploitation vectors for the everyday community
-  - https://www.enumerated.de/index/salesforce
+  - https://www.enumerated.de/index/salesforce (404), use https://web.archive.org/web/20201031233746/https://www.enumerated.de/index/salesforce

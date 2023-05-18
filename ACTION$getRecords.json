@@ -1,0 +1,18 @@
+{
+    "actions": [
+        {
+            "id": "pwn",
+            "descriptor": "serviceComponent://ui.force.components.controllers.detail.DetailController/ACTION$getRecord",
+            "callingDescriptor": "UNKNOWN",
+            "params": {
+                "recordId": "<recordId>",
+                "record": null,
+                "inContextOfComponent": "",
+                "mode": "VIEW",
+                "layoutType": "FULL",
+                "defaultFieldValues": null,
+                "navigationLocation": "LIST_VIEW_ROW"
+            }
+        }
+    ]
+}

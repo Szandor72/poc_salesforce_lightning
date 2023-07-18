@@ -1,0 +1,19 @@
+{
+  "actions": [
+    {
+      "descriptor": "serviceComponent://ui.chatter.components.aura.components.forceChatter.chatter.FeedController/ACTION$getModel",
+      "callingDescriptor": "UNKNOWN",
+      "params": {
+        "type": "record",
+        "subjectId": "<record_id>",
+        "showFeedItemActions": false,
+        "feedDesign": "DEFAULT",
+        "hasFeedSwitcher": false,
+        "modelKey": "templates",
+        "showFilteringMenuGroup": false,
+        "includeRecordActivitiesInFeed": false,
+        "retrieveOnlyTopLevelThreadedComments": true
+      }
+    }
+  ]
+}

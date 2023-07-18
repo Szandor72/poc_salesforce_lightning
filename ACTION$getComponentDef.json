@@ -1,12 +1,12 @@
 {
-    "actions": [
-        {
-            "id": "2;a",
-            "descriptor": "aura:\/\/ComponentController/ACTION$getComponentDef",
-            "callingDescriptor": "UNKNOWN",
-            "params": {
-                "name": "<namespaced_component_name>"
-            }
-        }
-    ]
+  "actions": [
+    {
+      "id": "2;a",
+      "descriptor": "aura://ComponentController/ACTION$getComponentDef",
+      "callingDescriptor": "UNKNOWN",
+      "params": {
+        "name": "<namespaced_component_name>"
+      }
+    }
+  ]
 }

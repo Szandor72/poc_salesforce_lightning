@@ -1,0 +1,10 @@
+{
+  "actions": [
+    {
+      "id": "123;a",
+      "descriptor": "serviceComponent://ui.self.service.components.profileMenu.ProfileMenuController/ACTION$getProfileMenuResponse",
+      "callingDescriptor": "UNKNOWN",
+      "params": {}
+    }
+  ]
+}

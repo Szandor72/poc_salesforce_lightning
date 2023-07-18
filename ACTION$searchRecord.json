@@ -1,0 +1,18 @@
+{
+  "actions": [
+    {
+      "id": "123;a",
+      "descriptor": "serviceComponent://ui.search.components.forcesearch.scopedresultsdataprovider.ScopedResultsDataProviderController/ACTION$getLookupItems",
+      "callingDescriptor": "UNKNOWN",
+      "params": {
+        "scope": "<object_name>",
+        "term": "<search_term>",
+        "pageSize": 10,
+        "currentPage": 1,
+        "enableRowActions": false,
+        "additionalFields": ["<field_name>"],
+        "useADS": false
+      }
+    }
+  ]
+}

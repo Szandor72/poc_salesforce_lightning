@@ -1,28 +1,28 @@
 {
-    "actions": [
-        {
-            "descriptor": "serviceComponent:\/\/ui.comm.runtime.components.aura.components.siteforce.controller.PubliclyCacheableComponentLoaderController/ACTION$getPageComponent",
-            "callingDescriptor": "UNKNOWN",
-            "params": {
-                "attributes": {
-                    "viewId": "<id_value>",
-                    "routeType": "<event_value>",
-                    "themeLayoutType": "<themeLayoutType_value>",
-                    "params": {
-                        "viewid": "<view_uuid_value>",
-                        "view_uddid": "",
-                        "entity_name": "",
-                        "audience_name": "",
-                        "picasso_id": "",
-                        "routeId": ""
-                    },
-                    "hasAttrVaringCmps": false,
-                    "pageLoadType": "STANDARD_PAGE_CONTENT",
-                    "includeLayout": true
-                },
-                "publishedChangelistNum": "<publishedChangelistNum_value>",
-                "brandingSetId": "<brandingSetId_value>"
-            }
-        }
-    ]
+  "actions": [
+    {
+      "descriptor": "serviceComponent://ui.comm.runtime.components.aura.components.siteforce.controller.PubliclyCacheableComponentLoaderController/ACTION$getPageComponent",
+      "callingDescriptor": "UNKNOWN",
+      "params": {
+        "attributes": {
+          "viewId": "<id_value>",
+          "routeType": "<event_value>",
+          "themeLayoutType": "<themeLayoutType_value>",
+          "params": {
+            "viewid": "<view_uuid_value>",
+            "view_uddid": "",
+            "entity_name": "",
+            "audience_name": "",
+            "picasso_id": "",
+            "routeId": ""
+          },
+          "hasAttrVaringCmps": false,
+          "pageLoadType": "STANDARD_PAGE_CONTENT",
+          "includeLayout": true
+        },
+        "publishedChangelistNum": "<publishedChangelistNum_value>",
+        "brandingSetId": "<brandingSetId_value>"
+      }
+    }
+  ]
 }

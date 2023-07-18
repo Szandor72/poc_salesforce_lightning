@@ -1,18 +1,18 @@
 {
-    "actions": [
-        {
-            "id": "pwn",
-            "descriptor": "serviceComponent://ui.force.components.controllers.lists.selectableListDataProvider.SelectableListDataProviderController/ACTION$getItems",
-            "callingDescriptor": "UNKNOWN",
-            "params": {
-                "entityNameOrId": "<objectname>",
-                "layoutType": "FULL",
-                "pageSize": "<pagesize>",
-                "currentPage": "<page>",
-                "useTimeout": false,
-                "getCount": true,
-                "enableRowActions": false
-            }
-        }
-    ]
+  "actions": [
+    {
+      "id": "pwn",
+      "descriptor": "serviceComponent://ui.force.components.controllers.lists.selectableListDataProvider.SelectableListDataProviderController/ACTION$getItems",
+      "callingDescriptor": "UNKNOWN",
+      "params": {
+        "entityNameOrId": "<objectname>",
+        "layoutType": "FULL",
+        "pageSize": "<pagesize>",
+        "currentPage": "<page>",
+        "useTimeout": false,
+        "getCount": true,
+        "enableRowActions": false
+      }
+    }
+  ]
 }

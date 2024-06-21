@@ -1,3 +1,4 @@
 *.env
 **/.vscode
 exploit_aura_experience
+.sfdx
